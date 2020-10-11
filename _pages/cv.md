@@ -21,7 +21,7 @@ Department of Electrical Engineering&nbsp;&nbsp;<br/>
 CPI: 8.76
 
 
-Work experience
+Research experience
 ======
 ### CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification 
 Guide: <a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Chaudhuri</a>, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
