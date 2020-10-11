@@ -14,9 +14,9 @@ My research interests include incremental learning, co-segmentation, few-shot/ze
 
 ### Vision and Image Processing Lab, IIT Bombay
 Members of the lab with Prof. Subhasis Chaudhuri.
-<a href="http://www.ee.iitb.ac.in/~viplab/" target="_blank"><img src="/images/lab.jpg" width="100"></a>
+<a href="http://www.ee.iitb.ac.in/~viplab/" target="_blank"><img src="/images/lab.jpg" </a>
 
 
 ### Monsoon Trekking
 Amidst the lush and serene greenery on the way to Peb Fort during the Monsoon.
-<a href="/images/trek.jpg" target="_blank"><img src="/images/trek.jpg" width="100"></a>
+<a href="/images/trek.jpg" target="_blank"><img src="/images/trek.jpg"></a>
