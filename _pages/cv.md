@@ -39,12 +39,12 @@ Guide:<a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Ch
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* Latex
+* C++
+* Bash Scripting
+* Potraiture
 
 Publications
 ======
