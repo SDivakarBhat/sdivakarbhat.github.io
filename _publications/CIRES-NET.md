@@ -6,5 +6,5 @@ excerpt: 'This paper is under progress.'
 date:  '2020-10-10'
 venue: ''
 paperurl: '' 
-citation: 'S Divakar Bhat, Biplab Banerjee, Subhasis Chaudhuri, Avik Bhattacharya,. &quot;CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification.&quot; <i>Under Progress</i>.'
+citation: ''
 ---
