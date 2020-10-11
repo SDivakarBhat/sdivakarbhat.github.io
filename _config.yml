@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "S Divakar Bhat"
 title_separator          : "-"
 name                     : &name "S Divakar Bhat"
-description              : &description "personal description"
-url                      : https://sdivakarbhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate student | Researcher"
+url                      : "https://sdivakarbhat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SDivakarBhat/sdivakarbhat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "S Divakar Bhat"
   avatar           : "pp.jpg"
-  bio              : "Graduate Research Assistant, Vision and Image Processing Lab, IIT Bombay"
+  bio              : "Graduate Research Assistant, Vision and Image Processing Lab, Indian Institute of Technology Bombay"
   location         : "Mumbai"
   employer         :
   pubmed           : 
