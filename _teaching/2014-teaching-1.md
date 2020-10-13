@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/iitb.png' width='50'>TA, Machine Learning for Remote Sensing Part II"
+title: "<img src='/images/iitb.png' width='50' hspace='10'>TA, Machine Learning for Remote Sensing Part II"
 collection: teaching
 type: "Advanced ML"
 permalink: /teaching/2014-teaching-1
