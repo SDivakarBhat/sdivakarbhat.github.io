@@ -14,7 +14,7 @@ Education
 ### <a href="https://www.iitb.ac.in" target="_blank"><img src="/images/iitb.png" width="40" hspace='10'></a> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)&nbsp;              
 Indian Institute of Technology Bombay&nbsp;        
 Department of Electrical Engineering&nbsp;&nbsp;<br/> 
-CPI: 9.15
+CPI: 9.42
 ### <a href="https://www.mec.ac.in" target="_blank"><img src="/images/mec.png" width="40" hspace='10'></a> BTech Electrical and Electronics Engineering &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;(2013 - 2017)&nbsp;   
 Model Engineering College, Kochi&nbsp;       
 Department of Electrical Engineering&nbsp;&nbsp;<br/>
