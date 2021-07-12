@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-### <a href="https://www.iitb.ac.in" target="_blank"><img src="/images/iitb.png" width="40" hspace='10'></a> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)&nbsp;              
+### <a href="https://www.iitb.ac.in" target="_blank"><img src="/images/iitb.png" width="40" hspace='10'></a> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - 2021)&nbsp;              
 Indian Institute of Technology Bombay&nbsp;        
 Department of Electrical Engineering&nbsp;&nbsp;<br/> 
 CPI: 9.42
