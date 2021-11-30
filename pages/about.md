@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 redirect_from: 
   - /about/
   - /about.html
-  - /home.html
 ---
 
 
