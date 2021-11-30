@@ -5,13 +5,13 @@ permalink: /resume
 ---
 # S Divakar Bhat
 
-_AI Researcher based in Kochi, India_ <br>
+_AI Researcher currently based in Kochi, India_ <br>
 
 [Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
 
 ## 👩🏼‍💻 Technical Experience
 
-**AI Researcher** @ [Honda R&D](https://global.honda/innovation/technology/RandD.html) _(Oct 2021 - present)_ <br>
+**AI Researcher** @ [Honda R&D,Japan](https://global.honda/innovation/technology/RandD.html) _(Oct 2021 - present)_ <br>
 Works in the Computer Science Domain of the Innovative Research Excellence division.
   - Algorithm development and implementation of ADAS features
   - **_Technologies used:_** Python, C#, Unity, PyTorch.
@@ -103,14 +103,14 @@ _Aspiring to share my knowledge and inspire young minds. These are my baby steps
 
 - **Career Contrails Honda R&D Placement Experience** _(released on Mar 14, 2021)_
 <br>[Part 1: Before Interview](https://www.youtube.com/watch?v=Oi4OeCc_NXI&t=240s)<br>
-[Part 2: During Interview](https://www.youtube.com/watch?v=66t4haSxtws&t=10s)<
+[Part 2: During Interview](https://www.youtube.com/watch?v=66t4haSxtws&t=10s)
 <br>
 
 - **AlumConnect** _(streamed on Jul 25, 2020)_
 <br>[AlumConnect](https://www.youtube.com/watch?v=eoNWGwLQXdQ)<br>
 
 **Want me to speak at your event?**
-<br>💖 [Reach out](https://www.linkedin.com/in/sdivakarbhat/)for more information.
+<br>💖 [Reach out](https://www.linkedin.com/in/sdivakarbhat/) for more information.
 <br><br>
   
 ## 🏆 Accomplishments
