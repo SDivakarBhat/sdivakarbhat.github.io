@@ -12,9 +12,6 @@ My research interests include incremental learning, co-segmentation, few-shot/ze
 <br/> 
 <br/> 
 <br/> 
-<br/> 
-<br/> 
-<br/> 
 
 ### Vision and Image Processing Lab, IIT Bombay
 Members of the lab with Prof. Subhasis Chaudhuri.
