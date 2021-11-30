@@ -9,6 +9,10 @@ I finished my masters in Electrical Engineering from IIT Bombay with a specialis
 My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision.
 <br/> 
 <br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 ### Vision and Image Processing Lab, IIT Bombay
 Members of the lab with Prof. Subhasis Chaudhuri.
