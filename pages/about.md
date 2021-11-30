@@ -4,4 +4,15 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+
+I finished my masters in Electrical Engineering from IIT Bombay with a specialisation in Control and Computing. I worked as a Project Research Assistant under <a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Chaudhuri</a> in <a href="http://www.ee.iitb.ac.in/~viplab/" target="_blank">Vision and Image Processing Lab</a>. I also worked very closely with <a href="https://biplab-banerjee.github.io/" target="_blank">Prof. Biplab Banerjee</a> of Centre of Studies in Resources Engineering, IIT Bombay.  
+My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision.
+
+### Vision and Image Processing Lab, IIT Bombay
+Members of the lab with Prof. Subhasis Chaudhuri.
+<a href="http://www.ee.iitb.ac.in/~viplab/" target="_blank"><img src="/images/lab.jpg"></a>
+
+
+### Monsoon Trekking
+Amidst the lush and serene greenery on the way to Peb Fort during the Monsoon.
+<a href="/images/trek.jpg" target="_blank"><img src="/images/trek.jpg"></a>
