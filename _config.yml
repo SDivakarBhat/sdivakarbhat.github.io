@@ -13,6 +13,44 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "S Divakar Bhat"
 description:	       ""
 #author:              ""
+# Site Author
+author:
+  name             : "S Divakar Bhat"
+  avatar           : "pp.jpg"
+  bio              : "Graduate Research Assistant, Vision and Image Processing Lab, Indian Institute of Technology Bombay"
+  location         : "Mumbai"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=OV22OLoAAAAJ&hl=en"
+  email            : "sdivakarbhat [AT] gmail [DOT] com, sdivakarbhat [AT} iitb [DOT] ac [DOT} in"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "sdivakarbhat/"
+  foursquare       :
+  github           : "SDivakarBhat"
+  google_plus      :
+  keybase          :
+  instagram        : "divakar_paakar/"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "sdivakarbhat/"
+  orcid            : "https://orcid.org/0000-0001-7816-7167"#"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
