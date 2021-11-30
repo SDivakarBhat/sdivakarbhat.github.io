@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+{% assign about = site.pages | where: 'name','about.md' %}
+{{about}}
 <!--
 {% for post in paginator.posts %}
   {% include featured-post.html %}
