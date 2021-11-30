@@ -1,44 +1,44 @@
 # S Divakar Bhat
 
-_AI Researcher (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_AI Researcher based in Kochi, India_ <br>
 
 [Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
 
 ## 👩🏼‍💻 Technical Experience
 
 **AI Researcher** @ [Honda R&D](https://global.honda/innovation/technology/RandD.html) _(Oct 2021 - present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
+Works in the Computer Science Domain of the Innovative Research Excellence division.
+  - Algorithm development and implementation of ADAS features
   - **_Technologies used:_** Python, C#, Unity, PyTorch.
 <br><br>
 
 **Project Research Assistant** @ [VIPLAB-IITB](http://www.ee.iitb.ac.in/~viplab/) _(Aug 2018 - Jul 2021)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
+Vision and Image Processing Lab (VIP Lab) is a research facility in the Electrical Engineering Department dedicated to Deep Learning, haptics, computer vision and image processing applications. 
+  - Research and implementation of novel techniques in incremental learning and co-segmentation.
+  - Also served as Research Assistant under the DST project: India-Trento Program For Advanced Research (ITPAR) Phase-IV.
+  - Worked on developing novel methodologies to improve learning continually in an efficient manner and by using lesser data.
+  - Co-developed a novel method for co-segmentation using only small number of labelled samples along with a doctoral student.
   - **_Technologies used:_** Python, PyTorch, Tensorflow, Bash, Matlab, Latex, HTML, CSS.
   -   - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+    - [CILEA-NET](https://ieeexplore.ieee.org/abstract/document/9442875)
+    - [FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)
+    - [SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)
     <br><br>
 
 **Web Developer** @ [C-MInDS](https://www.minds.iitb.ac.in/) _(May 2020 - Aug 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
+The centre is expected to to contribute towards the growing significance of the role of Artificial Intelligence, Data Science.
+  - Built the [website](https://www.minds.iitb.ac.in/) for the Centre for Machine Intelligence and Data Science (C-MInDS) at IIT Bombay.
+  - Continues to assist in the mantanance of the website if required.
+  - **_Technologies used:_** Joomla, PHP, HTML, CSS.
     <br><br>
 
   
-## 🗞 Journalism Experience
+## 🗞 Volunteering Experience
 
-_This section only accounts for work done post-career change._
-<br><br>
+<!--_This section only accounts for volunteering works done._
+<br><br>-->
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
+**Project In-Charge** @ [URJA-EMF](https://futureofsex.net/author/carolyn/) _(May 2016 - Feb 2017)_ <br>
 Online publication that provides insights into the future of human sex and sexuality.
   - Writing regular features focused on sexual health and identity
   - Reporting on events that are relevant to the sex tech community
@@ -103,18 +103,8 @@ Free, two-day workshops to help people build their first website.
   
 ## 🏆 Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+**Won Best MTech Thesis Award** @ [EE Dept. IIT Bombay](https://hack.touchyfeely.tech/) _(Aug 2021)_ <br>
+Was awarded the Best M.Tech Thesis Award for my thesis titled, "You Never Stop Learning: Exploring Continual Learning in Visual Recognition". 
 
 ## 💬 Languages
 
@@ -122,23 +112,17 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Hindi**: Native <br>
 **Malayalam**: Native <br>
 **Konkani**: Native <br>
-**Tamil**: Native <br>
-**Telugu**: Native <br>
-**Sanskrit**: Native <br>
+**Tamil**: Limited Working Proficiency<br>
+**Telugu**: Elementary <br>
+**Sanskrit**: Limited Working Proficiency <br>
 **Japanese**: Elementary
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
 
-**Master of Technology** in Control and Computing<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2013 - 2017)_
+**Master of Technology** in Control and Computing &nbsp; &nbsp; CPI: 9.42<br>
+[IIT Bombay](https://www.iitb.ac.in/) - Mumbai, Maharashtra, India _(2018 - 2021)_
 
-**Bachelor of Technology** in Electrical and Electronics Engineering<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2013 - 2017)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Bachelor of Technology** in Electrical and Electronics Engineering &nbsp; &nbsp; CPI: 8.76<br>
+[Model Engineering College](https://www.mec.ac.in/) - Kochi, Kerala, India _(2013 - 2017)_
