@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+permalink: /resume
+---
 # S Divakar Bhat
 
 _AI Researcher based in Kochi, India_ <br>
