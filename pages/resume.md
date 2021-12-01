@@ -105,7 +105,7 @@ Free, two-day workshops to help people build their first website.
 ## 🎤 Public Speaking
     
 _Aspiring to share my knowledge and inspire young minds. These are my baby steps to speak before a large audience someday_
-<br><br>
+<br>
 ### Recent Appearances
 
 - **RYB an interactive session by EMF** _(streamed on Sep 17, 2021)_
