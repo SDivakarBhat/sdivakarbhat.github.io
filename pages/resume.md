@@ -113,7 +113,7 @@ _Aspiring to share my knowledge and inspire young minds. These are my baby steps
 <br>💖 [Reach out](https://www.linkedin.com/in/sdivakarbhat/) for more information.
 <br><br>
 
-## ![image](https://user-images.githubusercontent.com/42075133/144157922-c2c91b64-a2c5-48a2-b0a5-c1ae019e1822.png) Publications
+## 📄 Publications
     
 ### Journals
 
