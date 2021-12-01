@@ -9,7 +9,13 @@ permalink: /resume
 _AI Researcher currently based in Kochi, India_ <br>
 
 [Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## 👩🏼‍💻 Technical Experience
 
 **AI Researcher** @ [Honda R&D,Japan](https://global.honda/innovation/technology/RandD.html) _(Oct 2021 - present)_ <br>
