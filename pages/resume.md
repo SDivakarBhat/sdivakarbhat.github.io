@@ -122,7 +122,7 @@ _Aspiring to share my knowledge and inspire young minds. These are my baby steps
 ### Conferences
 
 - Banerjee, Sayan, S. Divakar Bhat, Subhasis Chaudhuri, and Rajbabu Velmurugan. **"Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation."** _In 2020 25th International Conference on Pattern Recognition (ICPR)_, pp. 8431-8438. IEEE, 2021.[FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)<br>
-- Bhat, S. Divakar, Biplab Banerjee, and Subhasis Chaudhuri. **"SemGIF: A Semantics Guided Incremental Few-shot Learning Framework with Generative Replay."** _The 32nd British Machine Vision Conference (2021)_[SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)<br>
+- Bhat, S. Divakar, Biplab Banerjee, and Subhasis Chaudhuri. **"SemGIF: A Semantics Guided Incremental Few-shot Learning Framework with Generative Replay."** _In 2021 32nd British Machine Vision Conference (BMVC)_[SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)<br>
   
 ## 🏆 Accomplishments
 
