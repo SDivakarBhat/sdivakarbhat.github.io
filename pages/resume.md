@@ -24,7 +24,7 @@ Vision and Image Processing Lab (VIP Lab) is a research facility in the Electric
   - Worked on developing novel methodologies to improve learning continually in an efficient manner and by using lesser data.
   - Co-developed a novel method for co-segmentation using only small number of labelled samples along with a doctoral student.
   - **_Technologies used:_** Python, PyTorch, Tensorflow, Bash, Matlab, Latex, HTML, CSS.
-  -   - **_Selected open-source work:_**
+  - **_Selected open-source work:_**
     - [CILEA-NET](https://ieeexplore.ieee.org/abstract/document/9442875)
     - [FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)
     - [SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)
@@ -112,6 +112,17 @@ _Aspiring to share my knowledge and inspire young minds. These are my baby steps
 **Want me to speak at your event?**
 <br>💖 [Reach out](https://www.linkedin.com/in/sdivakarbhat/) for more information.
 <br><br>
+
+## :book: Publications
+    
+### Journals
+
+- Bhat, S. Divakar, Biplab Banerjee, Subhasis Chaudhuri, and Avik Bhattacharya. **"CILEA-NET: A Curriculum-driven Incremental Learning Network for Remote Sensing Image Classification."** _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2021)_[CILEA-NET](https://ieeexplore.ieee.org/abstract/document/9442875)<br>
+
+### Conferences
+
+- Banerjee, Sayan, S. Divakar Bhat, Subhasis Chaudhuri, and Rajbabu Velmurugan. **"Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation."** _In 2020 25th International Conference on Pattern Recognition (ICPR)_, pp. 8431-8438. IEEE, 2021.[FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)<br>
+- Bhat, S. Divakar, Biplab Banerjee, and Subhasis Chaudhuri. **"SemGIF: A Semantics Guided Incremental Few-shot Learning Framework with Generative Replay."** _The 32nd British Machine Vision Conference (2021)_[SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)<br>
   
 ## 🏆 Accomplishments
 
