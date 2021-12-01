@@ -5,6 +5,7 @@ permalink: /resume
 ---
 # S Divakar Bhat
 
+<img align= "left" src="/images/divakar_3.png" width="200" hspace="20">
 _AI Researcher currently based in Kochi, India_ <br>
 
 [Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
