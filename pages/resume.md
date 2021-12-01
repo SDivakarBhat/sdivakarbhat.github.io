@@ -53,7 +53,7 @@ The centre is expected to to contribute towards the growing significance of the 
 <!--_This section only accounts for volunteering works done._
 <br><br>-->
 
-**Project In-Charge** @ [URJA-EMF](https://futureofsex.net/author/carolyn/) _(May 2016 - Feb 2017)_ <br>
+**Project In-Charge** @ [URJA-EMF](https://medium.com/transients/https-medium-com-amrinkareem-electrical-minds-forum-s-divakar-bhat-urja-from-darkness-to-light-emf-d95ec392c636) _(May 2016 - Feb 2017)_ <br>
 A project by Electrical Minds Forum of Model Engineering College Kochi, which aimed to provide basic electricity to selected houses in a tribal settlement in Kerala.
   - Development of the project outline and deliverables
   - Initial design of the proposed technology to be used.
