@@ -3,6 +3,9 @@ layout: page
 title: Contact
 permalink: /contact
 ---
+Contact me on [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
+
+OR 
 
 <div>
   <button onclick="mailShroud.check(this, 'unX92EUxD1+orEepuW1ErZ/+2L6WtBLnZQR9//5Pu9ajN3KW2R4+Fxo=-5/XAfomv3GQFh0UY-KlTuEbAxWLs=')">Reveal e-mail address</button>
