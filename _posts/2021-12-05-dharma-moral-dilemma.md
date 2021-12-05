@@ -293,3 +293,13 @@ dilemma encountered regarding the same in our lives, it is not easy to
 provide dharma with a structure or form which is unquestionable. Despite
 of this the concept of dharma forms the north star in our struggle to
 live a righteous and joyous life.
+
+## References
+Gurcharan Das. *The Difficulty of Being Good: On the Subtle Art of
+Dharma*. Penguin Books, 2012.
+
+Basant Kumar Lal. *Contemporary Indian Philosophy*. Motilal Banarsidass
+Publ., 1978
+
+Reconciling Dharma and Selfless Love: Lessons from The Ramayana,
+<https://yogainternational.com/article/view/reconciling-dharma-and-selfless-love-lessons-from-the-ramayana>
