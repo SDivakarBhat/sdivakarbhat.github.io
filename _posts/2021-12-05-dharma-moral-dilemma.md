@@ -1,4 +1,5 @@
 # Dharma and the Moral Dilemma of Life
+_A brief take by a millenial on the concept of Dharma and moral dilemma in life, through several instances from great Indian epics._
 ## Introduction
 
 Dharma which is one of the four *purusharthas*, forms the heart of Indian
