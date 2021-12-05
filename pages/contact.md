@@ -4,28 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-<form accept-charset="UTF-8" action="https://getform.io/f/5156be33-dec9-4bf0-9233-f6b0ffe5f1b1" method="POST" enctype="multipart/form-data" target="_blank">
-          <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Email address</label>
-            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-          </div>
-          <div class="form-group">
-            <label for="exampleInputName">Name</label>
-            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
-          </div>
-          <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
-            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
-            </select>
-          </div>
-          <hr>
-          <div class="form-group mt-3">
-            <label class="mr-2">Upload your CV:</label>
-            <input type="file" name="file">
-          </div>
-          <hr>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+<div>
+  <button onclick="mailShroud.check(this, 'unX92EUxD1+orEepuW1ErZ/+2L6WtBLnZQR9//5Pu9ajN3KW2R4+Fxo=-5/XAfomv3GQFh0UY-KlTuEbAxWLs=')">Reveal e-mail address</button>
+</div>
+<script src="https://services.nexodyne.com/MailShroud/js/1.1.0/mailshroud.js" integrity="sha384-ce9o0aidthsB7bFAFu/crNlKgrzWYUzuB1+xV4VWUQ4eqc+yqMV0pmYHIDrpw6zV" crossorigin="anonymous" async defer></script>
+<script src="https://hcaptcha.com/1/api.js?render=explicit" async defer></script>
