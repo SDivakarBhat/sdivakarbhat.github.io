@@ -3,4 +3,5 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-Coming Soon...
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
