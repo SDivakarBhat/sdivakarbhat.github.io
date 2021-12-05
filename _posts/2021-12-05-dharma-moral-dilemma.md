@@ -3,7 +3,7 @@ layout: post
 title: "Dharma and the Moral Dilemma of Life"
 author: "The Millenial"
 categories: philosophy
-tags: 
+tags: [philosophy]
 image: wheel.png
 ---
 # Dharma and the Moral Dilemma of Life
