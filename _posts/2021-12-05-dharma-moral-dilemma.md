@@ -5,6 +5,7 @@ author: "The Millenial"
 categories: philosophy
 tags: [philosophy]
 image: wheel.png
+applause_button: true
 ---
 # Dharma and the Moral Dilemma of Life
 _A brief take by a millenial on the concept of dharma and moral dilemma in life, through several instances from great Indian epics._
