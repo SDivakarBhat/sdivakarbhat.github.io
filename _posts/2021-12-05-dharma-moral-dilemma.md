@@ -5,7 +5,7 @@ author: "The Millenial"
 categories: philosophy
 tags: [philosophy]
 image: wheel.png
-image_description: Dharmachakra (the wheel of dharma) is one of the oldest symbols of Buddhism. [Image courtesy](https://healthywaymag.com/psychology/buddhism)
+image_description: Dharmachakra (the wheel of dharma) is one of the oldest symbols of Buddhism. [Image courtesy: https://healthywaymag.com/psychology/buddhism]
 applause_button: true
 ---
 # Dharma and the Moral Dilemma of Life
