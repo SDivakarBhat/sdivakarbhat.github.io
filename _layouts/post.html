@@ -24,6 +24,15 @@ layout: default
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
+  {% if page.applause_button %}
+  <applause-button class="mb6"
+    color={{ site.accent_color | default:'rgb(79,177,186)' }}
+    url={{ site.url }}{{ page.url }} >
+  </applause-button>
+{% else %}
+  <!-- original content of dingbat.html -->
+{% endif %}
+
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
