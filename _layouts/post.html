@@ -28,6 +28,12 @@ layout: default
   <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
   <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
 {% endif %}
+{% if page.applause_button %}
+  <applause-button class="mb6"
+    color={{ site.accent_color | default:'rgb(79,177,186)' }}
+    url={{ site.url }}{{ page.url }} >
+  </applause-button>
+{% endif %}
 
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
