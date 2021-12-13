@@ -6,6 +6,7 @@ categories: life, health, hobby
 tags: [life]
 published: false
 image: cycling.png
+applause_button: true
 ---
 # The Maiden Metric Century Ride - My first 100km cycling experience.
 _“The best rides are the ones where you bite off much more than you can chew, and live through it - Doug Bradbury"_
