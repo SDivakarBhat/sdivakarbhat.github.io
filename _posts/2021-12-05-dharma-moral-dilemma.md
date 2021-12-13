@@ -11,7 +11,7 @@ applause_button: true
 _A brief take by a millennial on the concept of dharma and moral dilemma in life, through several instances from great Indian epics._
 ## Introduction
 
-Dharma is one of the four *purusharthas*forms the heart of Indian
+Dharma is one of the four *purusharthas* forms the heart of Indian
 philosophy and is an untranslatable expression. It encompasses a
 wide variety of connotations ranging from duty, justice, law, goodness,
 morality, and even customs. The word is a derivative of the Sanskrit
