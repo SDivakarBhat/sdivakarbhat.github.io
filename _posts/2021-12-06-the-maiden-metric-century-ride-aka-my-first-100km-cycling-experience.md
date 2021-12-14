@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " The Maiden Metric Century Ride - My first 100km cycling experience."
+title: " The Maiden Metric Century Ride - Story of my first 100km cycling experience on a single speed bicycle."
 author: "The Millenial"
 categories: life, health, hobby
 tags: [life]
