@@ -4,7 +4,7 @@ title: "The Maiden Metric Century Ride"
 author: "The Millenial"
 categories: life, health, hobby
 tags: [life]
-published: false
+published: true
 image: IMG20210907075910.jpg
 ---
 # The Maiden Metric Century Ride - My first 100km cycling experience.
