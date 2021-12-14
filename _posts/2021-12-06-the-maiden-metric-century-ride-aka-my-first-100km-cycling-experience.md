@@ -20,14 +20,23 @@ For my first ride, as typical it is for a [Kochiite](https://en.wikipedia.org/wi
     <img src="https://user-images.githubusercontent.com/42075133/145923104-5b544b2d-772e-4a09-8258-47c72777493c.jpg" alt="Cochin shipyard" width="auto" width="100%">
     <em>View of the Naval Base area and Cochin Shipyard from the Venduruthy bridge on the way to Fort Kochi beach</em>
 </p>
+<p>
+    <img src="https://user-images.githubusercontent.com/42075133/145925154-a914e313-8296-4274-b0ba-e4386c7b2397.jpg" alt="Thoppumpady bridge" width="auto" width="100%">
+    <em>The old Mattancery bridge or the Thoppumpady bridge built, in 1940 by Sir Robert Charles Bristo.</em>
+</p>
 
-![thopumpady](https://user-images.githubusercontent.com/42075133/145925154-a914e313-8296-4274-b0ba-e4386c7b2397.jpg)
- *The old Mattancery bridge or the Thoppumpady bridge built, in 1940 by Sir Robert Charles Bristo.*
+
 
 After my previous ride to Fort Kochi, I wanted to level up a bit. Because I was not in a bad shape and was able to log around 5km run every other day I decided to cycle to [Munambam beach](https://www.webindia123.com/city/kerala/kochi-ernakulam/destinations/dams-waterfalls/munambambeach.htm). One of the perks of living in a coastal city in Kerala like Kochi is that you have access to a lot of beautiful beaches with even more charming routes to reach there.
 I was aware that this would be a demanding ride as it was my longest ride till now and also as the route was full of multiple small and big bridges across numerous waterways connecting the islands. Therefore I planned to start early and also ensured that I am fully prepared with enough water and snacks. My cycle also started getting a makeover gradually, with accessories like bottle holder, better seat cover, tail light, etc, based on the experience I gained from each ride. I started from my home around 06 45 AM riding through the scenic Goshree islands, Vypin, Cherai and finally reaching the destination. I took brief breaks in the middle to stretch and hydrate. It was a tough ride with occasional muscle cramps owing to the multiple short but sharp bridge ascents. But the spectacular view I got to witness at the Munambam beach was worth the ride. 
-![IMG20210912085559](https://user-images.githubusercontent.com/42075133/145931606-d71d6c20-5ccf-487e-86b7-3f3691dbaf5d.jpg)
-![IMG20210912090533](https://user-images.githubusercontent.com/42075133/145931683-b372075c-06b4-449b-9cde-2f410111a4b6.jpg)
+<p>
+    <img src="https://user-images.githubusercontent.com/42075133/145931606-d71d6c20-5ccf-487e-86b7-3f3691dbaf5d.jpg" alt="munambam-cycle" width="auto" width="100%">
+    <em>View at Munambam beach with the beach on right and estuary on the left</em>
+</p>
+<p>
+    <img src="https://user-images.githubusercontent.com/42075133/145931683-b372075c-06b4-449b-9cde-2f410111a4b6.jpg" alt="munambam-horizon" width="auto" width="100%">
+    <em>A fisihing boat on its way to the sea, a view from Munambam.</em>
+</p>
 
 It was raining slightly and I could hear the loud roaring sound of the waves crashing on the rocks. I was on a platform made out of rocks jutting out into the sea. Some people were fishing at the tip of this and I decided to walk towards them, from where I could get a better view of the fishing boats heading into the horizon from the estuary on our left. When I reached the tip, the mix of the loud sound of waves clubbed with the spray of water from their crashing served as a perfect refreshing accompaniment for the relaxing view of the horizon. After enjoying the view and contemplating how we humans take each moment for granted and how we fail to realise, cherish and conserve the beauty surrounding us, I decided to head back home to complete my ride. 
 It was a very tiring ride back as my leg started to give up in the middle and had to take multiple breaks to reason with my leg muscles. Finally, after a very tiring ride, I reached home in the noon logging around 62.35 km in 4h 11m.
