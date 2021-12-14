@@ -30,3 +30,4 @@ It was a very tiring ride back as my leg started to give up in the middle and ha
 
 <img src="https://user-images.githubusercontent.com/42075133/145931659-50a6e3ea-f0ed-4d8d-b976-84ac3a40fa04.jpg" alt="Screenshot_2021-09-12-13-32-08-22_3bb53944894d9646ec5754b62cc2584b" width="400" align="left"/>
 
+As soon as the exhaustion from the previous weared off I started thinking about going for a longer ride. I was infact planning for a route which will give me around 80kms to and fro. I kept on searching for potential routes and destinations, but I should admit that the ambitious fool in me kept on asking me why shouldnt I try for a 100km ride directly, after all its just 40kms more than the last one. Yes, I know thats a very irrational thought process, but what could I say, borrowing words from the American singer, Cher _"Until you're ready to look foolish, you'll never have the possibility of being great."_
