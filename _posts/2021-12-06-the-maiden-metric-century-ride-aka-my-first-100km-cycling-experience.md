@@ -31,7 +31,7 @@ After my previous ride to Fort Kochi, I wanted to level up a bit. Because I was 
 I was aware that this would be a demanding ride as it was my longest ride till now and also as the route was full of multiple small and big bridges across numerous waterways connecting the islands. Therefore I planned to start early and also ensured that I am fully prepared with enough water and snacks. My cycle also started getting a makeover gradually, with accessories like bottle holder, better seat cover, tail light, etc, based on the experience I gained from each ride. I started from my home around 06 45 AM riding through the scenic Goshree islands, Vypin, Cherai and finally reaching the destination. I took brief breaks in the middle to stretch and hydrate. It was a tough ride with occasional muscle cramps owing to the multiple short but sharp bridge ascents. But the spectacular view I got to witness at the Munambam beach was worth the ride. 
 <p>
     <img src="https://user-images.githubusercontent.com/42075133/145931606-d71d6c20-5ccf-487e-86b7-3f3691dbaf5d.jpg" alt="munambam-cycle" width="auto" width="100%">
-    <em>View at Munambam beach with the beach on right and estuary on the left</em>
+    <em>View at Munambam beach with the beach on left and estuary on the right</em>
 </p>
 <p>
     <img src="https://user-images.githubusercontent.com/42075133/145931683-b372075c-06b4-449b-9cde-2f410111a4b6.jpg" alt="munambam-horizon" width="auto" width="100%">
