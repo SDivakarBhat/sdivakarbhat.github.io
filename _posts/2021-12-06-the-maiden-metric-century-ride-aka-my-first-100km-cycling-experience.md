@@ -35,7 +35,7 @@ I was aware that this would be a demanding ride as it was my longest ride till n
 </p>
 <p>
     <img src="https://user-images.githubusercontent.com/42075133/145931683-b372075c-06b4-449b-9cde-2f410111a4b6.jpg" alt="munambam-horizon" width="auto" width="100%">
-    <em>A fisihing boat on its way to the sea, a view from Munambam.</em>
+    <em>A fishing boat on its way to the sea, a view from Munambam.</em>
 </p>
 
 It was raining slightly and I could hear the loud roaring sound of the waves crashing on the rocks. I was on a platform made out of rocks jutting out into the sea. Some people were fishing at the tip of this and I decided to walk towards them, from where I could get a better view of the fishing boats heading into the horizon from the estuary on our left. When I reached the tip, the mix of the loud sound of waves clubbed with the spray of water from their crashing served as a perfect refreshing accompaniment for the relaxing view of the horizon. After enjoying the view and contemplating how we humans take each moment for granted and how we fail to realise, cherish and conserve the beauty surrounding us, I decided to head back home to complete my ride. 
