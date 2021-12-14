@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " The Maiden Metric Century Ride <br> Story of my first 100km cycling experience."
-description: The story of my first 100km cycling experience on a single speed bicycle, along the coast of Kerala.
+description: The millenial talks about his first 100km cycling experience on a single speed bicycle, along the coast of Kerala.
 author: "The Millenial"
 categories: life, health, hobby
 tags: [life]
