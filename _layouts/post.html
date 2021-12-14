@@ -9,7 +9,7 @@ layout: default
   </h1>
   <h2>
   {% if page.description %}
-    {% assign description = page.description %}
+    {{ page.description }}
   {% endif %}
   </h2>
   {% if site.hide_post_date != true %}
