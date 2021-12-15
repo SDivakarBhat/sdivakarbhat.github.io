@@ -4,7 +4,7 @@ title: Posts
 category: sample
 permalink: /posts
 ---
-<ul>
+
   {% for post in site.posts %}
   <article>
     <h2>
@@ -23,4 +23,3 @@ permalink: /posts
     {% endif %}
     </article>
   {% endfor %}
-</ul>
