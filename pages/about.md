@@ -29,7 +29,7 @@ My research interests include artificial intelligence and computer vision.
 <br/> 
 <br/> 
 <br/> 
-<!--
+<!---
 ### Vision and Image Processing Lab, IIT Bombay
 Members of the lab with Prof. Subhasis Chaudhuri.
 <a href="http://www.ee.iitb.ac.in/~viplab/" target="_blank"><img src="/images/lab.jpg"></a>
