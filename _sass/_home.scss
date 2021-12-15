@@ -36,34 +36,9 @@
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
 		background-size: cover;
-		.title {
-			font-size: modular-scale(6);
-		}
-		.subtitle, .info {
-			font-size: modular-scale(1);
-		}
-		.attribution{
-			position: relative;
-			float: right;
-			margin-right: 1em;
-			color: white;
-			top: -2em;
-			opacity: 0.4;
-			a {
-				color: white;
-			}
-		}
+		
 	}
-	.scrim {
-		padding: 3em 1em;
-		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
-			padding: 6em 1em !important;
-			@media(max-width: $tablet-width) {
-				padding: 9em 1em !important;
-			}
-		}
-	}
+	
 }
 
 img {
