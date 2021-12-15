@@ -4,6 +4,14 @@ title: Posts
 category: sample
 permalink: /posts
 ---
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
+  {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
 {% endfor %}
