@@ -6,6 +6,13 @@ permalink: /posts
 ---
 <ul>
   {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align:right;">
@@ -14,5 +21,6 @@ permalink: /posts
     {% else %}
       {{ post.content }}
     {% endif %}
+    </article>
   {% endfor %}
 </ul>
