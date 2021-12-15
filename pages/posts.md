@@ -21,5 +21,4 @@ permalink: /posts
     {% else %}
       {{ post.content }}
     {% endif %}
-  </article>
   {% endfor %}
