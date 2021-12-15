@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-Best way to reach me is to either contact me on [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
+ Let's connect. A great way to get my attention is to either contact me on [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
 
 OR 
  mail me
