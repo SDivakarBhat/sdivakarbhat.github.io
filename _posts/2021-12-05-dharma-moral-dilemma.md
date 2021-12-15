@@ -26,7 +26,7 @@ dharma help us out of the moral dilemmas we face in this quixotic world
 due to our inherent ignorance and vulnerable nature? Does staunch
 commitment to dharma alleviate us from the misery of birth and of being
 alive? Thoughts such as these drive us to explore more on the meaning
-of dharma and its effect on our life.
+of dharma and its effect on our life.<!-- more -->
 
 This idea of dharma has been a very important topic in Indian
 philosophy and is all the more relevant in the contemporary world. In
