@@ -6,7 +6,6 @@ permalink: /posts
 ---
 
   {% for post in site.posts %}
-  <article>
     <h2>
       <a href="{{ post.url }}">
         {{ post.title }}
@@ -21,5 +20,4 @@ permalink: /posts
     {% else %}
       {{ post.content }}
     {% endif %}
-    </article>
   {% endfor %}
