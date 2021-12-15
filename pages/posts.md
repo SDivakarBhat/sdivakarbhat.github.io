@@ -3,6 +3,7 @@ layout: default
 title: Posts
 category: sample
 permalink: /posts
-redirect_to:
-  - https://sdivakarbhat.github.io/
 ---
+{% for post in paginator.posts %}
+  {% include featured-post.html %}
+{% endfor %}
