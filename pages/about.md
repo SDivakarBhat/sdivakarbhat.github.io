@@ -30,6 +30,19 @@ My research interests include artificial intelligence and computer vision.
  Blessed with a wide range of interests to choose from, I spend my free time sketching portraits, trekking, long-distance cycling, or reading.
  Basically a bibliophile, I love reading unless plagued with a reader's block and enjoy it as a means to understand new perspectives, get lost in a world of your choice and grow. Recently I have started experimenting with writing small articles, few of which you can find <a href="https://sdivakarbhat.github.io/posts" target="_blank">here</a>. I also enjoy the pleasant pain after a tough workout and hence try to push myself to stay active by working out or running.
  </p>
+ 
+ 
+ 
+ Let's connect. A great way to get my attention is to either contact me on [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
+
+OR 
+ mail me
+<div>
+  <button onclick="mailShroud.check(this, 'unX92EUxD1+orEepuW1ErZ/+2L6WtBLnZQR9//5Pu9ajN3KW2R4+Fxo=-5/XAfomv3GQFh0UY-KlTuEbAxWLs=')">Reveal e-mail address</button>
+</div>
+<script src="https://services.nexodyne.com/MailShroud/js/1.1.0/mailshroud.js" integrity="sha384-ce9o0aidthsB7bFAFu/crNlKgrzWYUzuB1+xV4VWUQ4eqc+yqMV0pmYHIDrpw6zV" crossorigin="anonymous" async defer></script>
+<script src="https://hcaptcha.com/1/api.js?render=explicit" async defer></script>
+
 <!---
 ### Vision and Image Processing Lab, IIT Bombay
 Members of the lab with Prof. Subhasis Chaudhuri.
