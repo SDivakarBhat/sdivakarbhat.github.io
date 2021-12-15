@@ -32,7 +32,7 @@
 	width: 100%;
 	text-align: center;
 	&.has-cover {
-		color: $white;
+		color: white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
 		background-size: cover;
@@ -46,11 +46,11 @@
 			position: relative;
 			float: right;
 			margin-right: 1em;
-			color: $white;
+			color: white;
 			top: -2em;
 			opacity: 0.4;
 			a {
-				color: $white;
+				color: white;
 			}
 		}
 	}
