@@ -14,7 +14,7 @@ permalink: /about
   Raised amidst the ravishing beauty of the western coastal plains of India,<br>
 not far from the mighty Western Ghats, <br>
 I have lived my whole life wandering between the Konkan and Malabar coast,<br>
-expecting to add Tokyo Bay Region to the list.<br>
+now expecting to add Tokyo Bay Region to the list.<br>
 Welcomes bribes in the form of cheesy vegetarian pizzas. 
   </strong>
   </p></center>
