@@ -15,7 +15,7 @@ permalink: /about
 not far from the mighty Western Ghats, <br>
 I have lived my whole life wandering between the Konkan and Malabar coast,<br>
 now expecting to add Tokyo Bay Region to the list.<br>
-Welcomes bribes in the form of cheesy vegetarian pizzas. 
+Welcomes bribes in the form of books or cheesy vegetarian pizzas. 
   </strong>
   </p></center>
 
