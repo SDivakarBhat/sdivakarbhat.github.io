@@ -23,7 +23,7 @@ social:
 - {icon: 'instagram', link:  'https://instagram.com/divakar_paakar/'}
 - {icon: 'linkedin', link:  'https://www.linkedin.com/in/sdivakarbhat/'}
 - {icon: 'github', link:  'https://github.com/SDivakarBhat'}
-- {icon: 'orcid', link:  'https://orcid.org/0000-0001-7816-7167'}
+#- {icon: 'orcid', link:  'https://orcid.org/0000-0001-7816-7167'}
 
 #- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
 #- {icon: 'rss-square', link: 'feed.xml'}
