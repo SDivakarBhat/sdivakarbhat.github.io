@@ -6,7 +6,7 @@ author: "The Millenial"
 categories: life, health, hobby
 tags: [life, health, hobby]
 published: true
-image: IMG20210907075910.jpg
+image: IMG20210907075910.webp
 ---
 
 _“The best rides are the ones where you bite off much more than you can chew, and live through it - Doug Bradbury"_
