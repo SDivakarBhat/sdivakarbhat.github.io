@@ -6,6 +6,11 @@
       {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
+  {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image}}" />
+{% endif %}
+
+<meta property="og:description" content="{{ page.description }}" />
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.keywords %}
  <meta name="keywords" content="{{ page.keywords }}" />
