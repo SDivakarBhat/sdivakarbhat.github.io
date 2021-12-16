@@ -6,7 +6,7 @@
       {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
-
+{% include general/og.html %}
 <meta property="og:description" content="{{ page.description }}" />
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.keywords %}
