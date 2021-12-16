@@ -28,7 +28,7 @@ My research interests include artificial intelligence and computer vision.
  
 <p>
  Blessed with a wide range of interests to choose from, I spend my free time sketching portraits, trekking, long-distance cycling, or reading.
- Basically a bibliophile, I love reading unless plagued with a reader's block and enjoy it as a means to understand new perspectives, get lost in a world of your choice and grow. Recently I have started experimenting with writing small articles, few of which you can find <a href="https://sdivakarbhat.github.io/posts" target="_blank">here</a>. I also enjoy the pleasant pain after a tough workout and hence try to push myself to stay active by working out or running.
+ Basically a bibliophile, I love reading (unless plagued with a reader's block) and enjoy it as a means to understand new perspectives, get lost in a world of your choice and grow. Recently I have started experimenting with writing small articles, few of which you can find <a href="https://sdivakarbhat.github.io/posts" target="_blank">here</a>. I also enjoy the pleasant pain after a tough workout and hence try to push myself to stay active by working out or running.
  </p>
 
 
