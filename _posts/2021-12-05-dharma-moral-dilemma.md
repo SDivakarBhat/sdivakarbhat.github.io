@@ -4,7 +4,7 @@ title: "Dharma and the Moral Dilemma of Life"
 author: "The Millenial"
 categories: philosophy
 tags: [philosophy]
-image: wheel.png
+image: wheel.webp
 image_description: Dharmachakra (the wheel of dharma) is one of the oldest symbols of Buddhism. [Image courtesy](https://healthywaymag.com/psychology/buddhism)
 applause_button: true
 ---
