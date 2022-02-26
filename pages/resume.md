@@ -137,7 +137,7 @@ _Aspiring to share my knowledge and inspire young minds. These are my baby steps
 
 ## 🏆 Accomplishments
 
-**Won Best MTech Thesis Award** @ [EE Dept. IIT Bombay](https://www.ee.iitb.ac.in/web) _(Aug 2021)_ <br>
+**Best MTech Thesis Award** @ [EE Dept. IIT Bombay](https://www.ee.iitb.ac.in/web) _(Aug 2021)_ <br>
 Was awarded the Best M.Tech Thesis Award for my thesis titled, "You Never Stop Learning: Exploring Continual Learning in Visual Recognition". 
 <br><br>
 
