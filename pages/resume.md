@@ -10,7 +10,7 @@ permalink: /resume
 <br>
 <br>
 
-_AI Researcher currently based in Kochi, India_ <br>
+_AI Researcher currently residing in Tokyo, Japan_ <br>
 
 [Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
 
