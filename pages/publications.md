@@ -5,6 +5,17 @@ permalink: /publications
 description: Publications and submissions by S. Divakar Bhat in computer vision and adaptive learning.
 ---
 
+<section class="page-lead-card">
+  <div>
+    <img class="page-lead-photo" src="/images/pp.jpg" alt="S. Divakar Bhat portrait">
+  </div>
+  <div>
+    <h1 class="page-lead-title">Publications</h1>
+    <p class="page-lead-subtitle">Selected papers across reliable adaptive vision, continual learning, and deployment-aware perception.</p>
+    <p class="page-lead-subtitle">For recent accepted papers, direct venue and preprint links are provided. Additional artifacts are added as they become public.</p>
+  </div>
+</section>
+
 ## 2026
 
 <article class="publication-card">
@@ -48,6 +59,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <p><strong>Authors:</strong> B. Aggarwal, A. More, M. Soni, S. D. Bhat</p>
   <p><strong>Venue:</strong> ICLR 2026</p>
   <p>Shows limits of current VLM training regimes for negation understanding, motivating stronger reasoning-oriented adaptation and evaluation protocols.</p>
+  <p class="resource-note">Official paper/code links will be added once publicly available.</p>
   <!-- Uncomment once official links are available -->
   <!-- <p class="resource-links"><a href="REPLACE_WITH_OFFICIAL_PAPER_URL" target="_blank">Paper</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a><a href="REPLACE_WITH_BIBTEX_URL" target="_blank">BibTeX</a></p> -->
 </article>
@@ -62,6 +74,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <p><strong>Authors:</strong> S. D. Bhat, T. Yamasaki</p>
   <p><strong>Status:</strong> Submitted to NeurIPS 2026 (preprint/submission status, not accepted at the time of writing)</p>
   <p>A training-free CLIP adaptation method using graph-refined soft labels and batch neighborhood structure for robust test-time performance.</p>
+  <p class="resource-note">Links are intentionally hidden until an official preprint/review page is released.</p>
   <!-- Uncomment once official links are available -->
   <!-- <p class="resource-links"><a href="REPLACE_WITH_PREPRINT_URL" target="_blank">Preprint</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a><a href="REPLACE_WITH_BIBTEX_URL" target="_blank">BibTeX</a></p> -->
 </article>

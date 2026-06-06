@@ -4,13 +4,23 @@ title: CV / Resume
 permalink: /resume
 description: CV and resume of S. Divakar Bhat.
 ---
-# S. Divakar Bhat
-
-AI Researcher, Honda R&amp;D Japan  
-PhD Student, The University of Tokyo
-
-sdivakarbhat@gmail.com | [+81 80-4919-2378](tel:+818049192378)  
-[Website](https://sdivakarbhat.github.io/) | [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) | [GitHub](https://github.com/SDivakarBhat) | [Google Scholar](https://scholar.google.com/citations?user=OV22OLoAAAAJ&hl=en)
+<section class="page-lead-card">
+  <div>
+    <img class="page-lead-photo" src="/images/divakar_3.png" alt="S. Divakar Bhat portrait">
+  </div>
+  <div>
+    <h1 class="page-lead-title">S. Divakar Bhat</h1>
+    <p class="page-lead-subtitle">AI Researcher, Honda R&amp;D Japan</p>
+    <p class="page-lead-subtitle">PhD Student, The University of Tokyo</p>
+    <p class="page-lead-subtitle">sdivakarbhat@gmail.com | <a href="tel:+818049192378">+81 80-4919-2378</a></p>
+    <div class="quick-links">
+      <a class="button" href="https://sdivakarbhat.github.io/" target="_blank">Website</a>
+      <a class="button" href="https://www.linkedin.com/in/sdivakarbhat/" target="_blank">LinkedIn</a>
+      <a class="button" href="https://github.com/SDivakarBhat" target="_blank">GitHub</a>
+      <a class="button" href="https://scholar.google.com/citations?user=OV22OLoAAAAJ&amp;hl=en" target="_blank">Scholar</a>
+    </div>
+  </div>
+</section>
 
 ## Research Areas
 
