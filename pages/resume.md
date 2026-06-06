@@ -2,14 +2,14 @@
 layout: page
 title: CV / Resume
 permalink: /resume
-description: CV and resume of S. Divakar Bhat.
+description: CV and resume of S Divakar Bhat.
 ---
 <section class="page-lead-card">
   <div>
-    <img class="page-lead-photo" src="/images/divakar_3.png" alt="S. Divakar Bhat portrait">
+    <img class="page-lead-photo" src="/images/divakar_3.png" alt="S Divakar Bhat portrait">
   </div>
   <div>
-    <h1 class="page-lead-title">S. Divakar Bhat</h1>
+    <h1 class="page-lead-title">S Divakar Bhat</h1>
     <p class="page-lead-subtitle">AI Researcher, Honda R&amp;D Japan</p>
     <p class="page-lead-subtitle">PhD Student, The University of Tokyo</p>
     <p class="page-lead-subtitle">sdivakarbhat@gmail.com | <a href="tel:+818049192378">+81 80-4919-2378</a></p>
@@ -52,12 +52,12 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
 ## Selected Publications
 
 - **AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning**  
-  S. Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal  
+  S Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal  
   CVPR 2026 Main Conference (Highlight)  
   [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html)
 
 - **Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models**  
-  S. Divakar Bhat, Toshihiko Yamasaki  
+  S Divakar Bhat, Toshihiko Yamasaki  
   CVPR 2026 Workshop on Multimodal Learning and Applications (MULA), Oral + Poster  
   [Paper](https://arxiv.org/abs/2606.02742)
 

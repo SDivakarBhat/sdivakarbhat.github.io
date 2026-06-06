@@ -2,12 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects
-description: Research and applied AI projects by S. Divakar Bhat.
+description: Research and applied AI projects by S Divakar Bhat.
 ---
 
 <section class="page-lead-card">
   <div>
-    <img class="page-lead-photo" src="/images/pp.jpg" alt="S. Divakar Bhat portrait">
+    <img class="page-lead-photo" src="/images/pp.jpg" alt="S Divakar Bhat portrait">
   </div>
   <div>
     <h1 class="page-lead-title">Projects</h1>

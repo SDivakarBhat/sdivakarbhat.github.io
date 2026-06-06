@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about
-description: About S. Divakar Bhat, AI researcher in reliable adaptive computer vision.
+description: About S Divakar Bhat, AI researcher in reliable adaptive computer vision.
 ---
 
 <p class="headshot-wrap">
-  <img class="headshot" src="/images/pp.jpg" alt="Portrait of S. Divakar Bhat">
+  <img class="headshot" src="/images/pp.jpg" alt="Portrait of S Divakar Bhat">
 </p>
 
 I am an AI researcher at Honda R&amp;D Japan and a PhD student at The University of Tokyo. My work sits at the intersection of reliable computer vision, adaptive learning, and real-world autonomy. I am interested in building vision systems that remain robust under domain shift, class imbalance, continual updates, and deployment constraints.

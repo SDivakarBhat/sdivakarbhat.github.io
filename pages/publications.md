@@ -2,12 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications
-description: Publications and submissions by S. Divakar Bhat in computer vision and adaptive learning.
+description: Publications and submissions by S Divakar Bhat in computer vision and adaptive learning.
 ---
 
 <section class="page-lead-card">
   <div>
-    <img class="page-lead-photo" src="/images/pp.jpg" alt="S. Divakar Bhat portrait">
+    <img class="page-lead-photo" src="/images/pp.jpg" alt="S Divakar Bhat portrait">
   </div>
   <div>
     <h1 class="page-lead-title">Publications</h1>
@@ -25,7 +25,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
     <span class="badge">Main Conference</span>
   </div>
   <h3>AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning</h3>
-  <p><strong>Authors:</strong> S. Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal</p>
+  <p><strong>Authors:</strong> S Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal</p>
   <p><strong>Venue:</strong> IEEE/CVF CVPR 2026 Main Conference (Highlight)</p>
   <p>A method for long-tailed continual learning that adaptively corrects model priors to reduce bias under class imbalance and incremental distribution shifts.</p>
   <p class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html" target="_blank">Paper</a><a href="https://www.youtube.com/watch?v=TJj1KuKirfo" target="_blank">Video</a></p>
@@ -41,7 +41,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
     <span class="badge">Spatial VLMs</span>
   </div>
   <h3>Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models</h3>
-  <p><strong>Authors:</strong> S. Divakar Bhat, Toshihiko Yamasaki</p>
+  <p><strong>Authors:</strong> S Divakar Bhat, Toshihiko Yamasaki</p>
   <p><strong>Venue:</strong> Workshop on Multimodal Learning and Applications (MULA), IEEE/CVF CVPR Workshops 2026</p>
   <p>An analysis of evidence-insensitive behavior in spatial VLMs, highlighting consistent predictions that remain poorly grounded to visual evidence.</p>
   <p class="resource-links"><a href="https://arxiv.org/abs/2606.02742" target="_blank">Paper</a></p>

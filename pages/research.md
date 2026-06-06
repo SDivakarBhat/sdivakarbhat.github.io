@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research
-description: Research directions of S. Divakar Bhat in reliable adaptive perception for computer vision.
+description: Research directions of S Divakar Bhat in reliable adaptive perception for computer vision.
 ---
 
 My current research direction is centered on reliable adaptive perception: building vision systems that remain useful when the test distribution shifts, classes are imbalanced, environments change, or deployment constraints become strict. I work across both foundational adaptation methods and real-world autonomy problems.

@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-redirect-from]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "S. Divakar Bhat | AI Researcher"
-short_title:         "S. Divakar Bhat"
+title:		           "S Divakar Bhat | AI Researcher"
+short_title:         "S Divakar Bhat"
 description:	       "AI Researcher at Honda R&D Japan and PhD student at The University of Tokyo working on reliable adaptive computer vision, continual learning, test-time adaptation, CLIP/VLM adaptation, and robust AD/ADAS perception."
 url:                 "https://sdivakarbhat.github.io"
 #author:              ""
