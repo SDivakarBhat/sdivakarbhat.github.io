@@ -16,7 +16,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   </div>
 </section>
 
-## 2026
+## Publications
 
 <article class="publication-card">
   <div class="badge-row">
@@ -53,7 +53,6 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <div class="badge-row">
     <span class="badge">ICLR 2026</span>
     <span class="badge">VLMs</span>
-    <span class="badge">4th Author</span>
   </div>
   <h3>Seeing What&rsquo;s Not There: Negation Understanding Needs More Than Training</h3>
   <p><strong>Authors:</strong> B. Aggarwal, A. More, M. Soni, S. D. Bhat</p>
@@ -79,7 +78,8 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <!-- <p class="resource-links"><a href="REPLACE_WITH_PREPRINT_URL" target="_blank">Preprint</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a><a href="REPLACE_WITH_BIBTEX_URL" target="_blank">BibTeX</a></p> -->
 </article>
 
-## Additional Publications
+<details>
+  <summary><strong>Show more publications</strong></summary>
 
 <article class="publication-card">
   <div class="badge-row">
@@ -130,8 +130,6 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <p class="resource-links"><a href="https://doi.org/10.1016/j.ifacol.2023.10.320" target="_blank">Paper (DOI)</a></p>
 </article>
 
-## Selected Earlier Publications
-
 <article class="publication-card">
   <div class="badge-row">
     <span class="badge">JSTARS 2021</span>
@@ -170,3 +168,5 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <p>A variational cross-encoder formulation for data-efficient co-segmentation in few-shot multi-image settings.</p>
   <p class="resource-links"><a href="https://ieeexplore.ieee.org/abstract/document/9412967" target="_blank">Paper</a></p>
 </article>
+
+</details>

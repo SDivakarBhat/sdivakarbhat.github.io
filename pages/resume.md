@@ -51,8 +51,6 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
 
 ## Selected Publications
 
-### 2026
-
 - **AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning**  
   S. Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal  
   CVPR 2026 Main Conference (Highlight)  
@@ -65,7 +63,7 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
 
 - **Seeing What&rsquo;s Not There: Negation Understanding Needs More Than Training**  
   B. Aggarwal, A. More, M. Soni, S. D. Bhat  
-  ICLR 2026 (4th author)  
+  ICLR 2026  
   [Search](https://scholar.google.com/scholar?q=Seeing+What%27s+Not+There%3A+Negation+Understanding+Needs+More+Than+Training)
 
 - **GRASP: Graph-Refined Adaptive Soft Predictions for Training-Free Vision-Language Model Adaptation**  
@@ -73,7 +71,8 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
   Submitted to NeurIPS 2026  
   [Search](https://scholar.google.com/scholar?q=GRASP%3A+Graph-Refined+Adaptive+Soft+Predictions+for+Training-Free+Vision-Language+Model+Adaptation)
 
-### Earlier
+<details>
+  <summary><strong>Show more publications</strong></summary>
 
 - **Prior2Posterior: Model Prior Correction for Long-Tailed Learning**  
   S. D. Bhat, A. More, M. Soni, S. Agrawal  
@@ -106,6 +105,8 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
 - **Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation**  
   ICPR, 2021  
   [Paper](https://ieeexplore.ieee.org/abstract/document/9412967)
+
+</details>
 
 ## Selected Talks and Presentations
 
