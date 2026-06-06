@@ -24,14 +24,15 @@ description: Research and applied AI projects by S. Divakar Bhat.
   <!-- <p class="resource-links"><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a></p> -->
 </article>
 
+<!--
 <article class="publication-card">
   <h3>GRASP - Training-Free CLIP Adaptation</h3>
   <p><strong>Research problem:</strong> Vision-language models often fail under deployment-time distribution shift when no labels are available.</p>
   <p><strong>Key idea:</strong> Graph-refined adaptive soft predictions with batch neighborhood structure for lightweight, training-free test-time adaptation.</p>
   <p class="resource-note">Links will be published after official preprint/release.</p>
-  <!-- Uncomment once official links are available -->
-  <!-- <p class="resource-links"><a href="REPLACE_WITH_PREPRINT_URL" target="_blank">Preprint</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a></p> -->
+  <p class="resource-note">Hidden for public site while under review.</p>
 </article>
+-->
 
 <article class="publication-card">
   <h3>ViewDiag / Consistent Yet Wrong - Spatial VLM Evaluation</h3>

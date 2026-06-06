@@ -63,6 +63,7 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <!-- <p class="resource-links"><a href="REPLACE_WITH_OFFICIAL_PAPER_URL" target="_blank">Paper</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a><a href="REPLACE_WITH_BIBTEX_URL" target="_blank">BibTeX</a></p> -->
 </article>
 
+<!--
 <article class="publication-card">
   <div class="badge-row">
     <span class="badge">NeurIPS 2026 submission</span>
@@ -74,9 +75,10 @@ description: Publications and submissions by S. Divakar Bhat in computer vision 
   <p><strong>Status:</strong> Submitted to NeurIPS 2026 (preprint/submission status, not accepted at the time of writing)</p>
   <p>A training-free CLIP adaptation method using graph-refined soft labels and batch neighborhood structure for robust test-time performance.</p>
   <p class="resource-note">Links are intentionally hidden until an official preprint/review page is released.</p>
-  <!-- Uncomment once official links are available -->
-  <!-- <p class="resource-links"><a href="REPLACE_WITH_PREPRINT_URL" target="_blank">Preprint</a><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a><a href="REPLACE_WITH_PROJECT_URL" target="_blank">Project</a><a href="REPLACE_WITH_BIBTEX_URL" target="_blank">BibTeX</a></p> -->
+  <p class="resource-note">Hidden for public site while under review.</p>
+  <p class="resource-note">Future links placeholder: preprint, code, project, and BibTeX.</p>
 </article>
+-->
 
 <details>
   <summary><strong>Show more publications</strong></summary>

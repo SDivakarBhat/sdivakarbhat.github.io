@@ -66,10 +66,12 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
   ICLR 2026  
   [Search](https://scholar.google.com/scholar?q=Seeing+What%27s+Not+There%3A+Negation+Understanding+Needs+More+Than+Training)
 
+<!--
 - **GRASP: Graph-Refined Adaptive Soft Predictions for Training-Free Vision-Language Model Adaptation**  
   S. D. Bhat, T. Yamasaki  
   Submitted to NeurIPS 2026  
   [Search](https://scholar.google.com/scholar?q=GRASP%3A+Graph-Refined+Adaptive+Soft+Predictions+for+Training-Free+Vision-Language+Model+Adaptation)
+-->
 
 <details>
   <summary><strong>Show more publications</strong></summary>
