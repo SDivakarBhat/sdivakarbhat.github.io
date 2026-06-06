@@ -1,163 +1,127 @@
 ---
 layout: page
-title: Resume
+title: CV / Resume
 permalink: /resume
+description: CV and resume of S. Divakar Bhat.
 ---
-# S Divakar Bhat
+# S. Divakar Bhat
 
-<img align= "left" src="/images/divakar_3.png" width="200" hspace="20">
-<br>
-<br>
-<br>
+AI Researcher, Honda R&amp;D Japan  
+PhD Student, The University of Tokyo
 
-_AI Researcher currently residing in Tokyo, Japan_ <br>
+sdivakarbhat@gmail.com | [+81 80-4919-2378](tel:+818049192378)  
+[Website](https://sdivakarbhat.github.io/) | [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) | [GitHub](https://github.com/SDivakarBhat) | [Google Scholar](https://scholar.google.com/citations?user=OV22OLoAAAAJ&hl=en)
 
-[Website](https://sdivakarbhat.github.io/) / [LinkedIn](https://www.linkedin.com/in/sdivakarbhat/) 
+## Research Areas
 
-<br>
-<br>
-<br>
-<br><br>
+Reliable and adaptive computer vision, test-time adaptation, continual learning, long-tailed learning, CLIP/VLM adaptation, and robust AD/ADAS perception.
 
-## 👩🏼‍💻 Technical Experience
+## Education
 
-**AI Researcher** @ [Honda R&D,Japan](https://global.honda/innovation/technology/RandD.html) _(Oct 2021 - present)_ <br>
-Works in the Computer Science Domain of the Innovative Research Excellence division.
-  - Algorithm development and implementation of ADAS features
-  - **_Technologies used:_** Python, C#, Unity, PyTorch.
-<br><br>
+- **PhD, Department of Information Science and Technology**, The University of Tokyo, Tokyo, Japan (Oct 2025 - Oct 2028)  
+  Advisor: Prof. Toshihiko Yamasaki
+- **M.Tech, Electrical Engineering (Control and Computing)**, IIT Bombay, Mumbai, India (Jul 2018 - Aug 2021)  
+  Thesis: You Never Stop Learning: Exploring Continual Learning in Visual Recognition  
+  Advisor: Prof. Subhasis Chaudhuri | CGPA: 9.42/10
+- **B.Tech, Electrical Engineering**, Govt. Model Engineering College, Cochin, India (Aug 2013 - May 2017)  
+  CGPA: 8.76/10
 
-**Project Research Assistant** @ [VIPLAB-IITB](http://www.ee.iitb.ac.in/~viplab/) _(Aug 2018 - Jul 2021)_ <br>
-Vision and Image Processing Lab (VIP Lab) is a research facility in the Electrical Engineering Department dedicated to Deep Learning, haptics, computer vision and image processing applications. 
-  - Research and implementation of novel techniques in incremental learning and co-segmentation.
-  - Also served as Research Assistant under the DST project: India-Trento Program For Advanced Research (ITPAR) Phase-IV.
-  - Worked on developing novel methodologies to improve learning continually in an efficient manner and by using lesser data.
-  - Co-developed a novel method for co-segmentation using only small number of labelled samples along with a doctoral student.
-  - **_Technologies used:_** Python, PyTorch, Tensorflow, Bash, Matlab, Latex, HTML, CSS.
-  - **_Selected open-source work:_**
-    - [CILEA-NET](https://ieeexplore.ieee.org/abstract/document/9442875)
-    - [FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)
-    - [SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)
-    <br><br>
+## Work Experience
 
-**Web Developer** @ [C-MInDS](https://www.minds.iitb.ac.in/) _(May 2020 - Aug 2020)_ <br>
-The centre is expected to to contribute towards the growing significance of the role of Artificial Intelligence, Data Science.
-  - Built the [website](https://www.minds.iitb.ac.in/) for the Centre for Machine Intelligence and Data Science (C-MInDS) at IIT Bombay.
-  - Continues to assist in the mantanance of the website if required.
-  - **_Technologies used:_** Joomla, PHP, HTML, CSS.
-    <br><br>
+- **AI Researcher**, Honda Innovation Lab, Honda R&amp;D Co., Ltd., Tokyo, Japan (Oct 2021 - Present)
+  - Research and development of road/free-space segmentation models for unstructured environments.
+  - Quantization and deployment of deep learning models on edge platforms.
+  - Camera-based risk minimization algorithms for safer driving scenarios.
+  - On-vehicle testing of perception algorithms under varied target conditions.
 
-  
-## 🗞 Volunteering and Management Experience
+- **Research Assistant**, India-Trento Program for Advanced Research Phase-IV (Jul 2018 - Jun 2021)
+  - Remote sensing analysis with optical and radar imagery for dynamic earth-process monitoring.
+  - Curriculum learning methods to improve incremental classification accuracy and convergence.
+  - Few-shot incremental classification with continual learning constraints.
 
-<!--_This section only accounts for volunteering works done._
-<br><br>-->
+## Selected Publications
 
-**Project In-Charge** @ [URJA-EMF](https://medium.com/transients/https-medium-com-amrinkareem-electrical-minds-forum-s-divakar-bhat-urja-from-darkness-to-light-emf-d95ec392c636) _(May 2016 - Feb 2017)_ <br>
-A project by Electrical Minds Forum of Model Engineering College Kochi, which aimed to provide basic electricity to selected houses in a tribal settlement in Kerala.
-  - Development of the project outline and deliverables
-  - Initial design of the proposed technology to be used.
-  - Survey and feasibility study of the site.
-  - Fund raising and publicity
-  - Interaction with the technical support and supply company.
-  - **_Selected articles:_**
-    - [With S Divakar Bhat on Urja — From Darkness to Light — EMF](https://medium.com/transients/https-medium-com-amrinkareem-electrical-minds-forum-s-divakar-bhat-urja-from-darkness-to-light-emf-d95ec392c636)
-<br><br>
+### 2026
 
-**Chairman Electrical Minds Forum** @ [EMF](https://www.mec.ac.in/mec/emf.php) _(Dec 2016 - Feb 2017)_ <br>
-Electrical Minds Forum - The Association of the Electrical Engineering Fraternity of Model Engineering College.
-  - Planned executed multiple small and large scale technical events like talks, technical competitions, exhibitions, social outreach, etc.
-  - Project in charge of the URJA project that provided basic elecitricity to selcted houses in a tribal settlement.
-  - Planned and organized _Vidyut Tarang_ an exhibition that spanned across 3 days.
-    <br><br>
+- **AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning**  
+  S. Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal  
+  CVPR 2026 Main Conference (Highlight)  
+  [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html)
 
-**Joint Secretary Excel 2016** @ [Excelmec-2016](https://2016.excelmec.org/#/home/) _(Jan 2016 - Feb 2017)_ <br>
-Excel, the nation’s second and South India’s first ever fest of its kind started in 2001 by the students of Govt. Model Engineering College with a motto, Inspire, Innovate, Engineer.
-  - A part of the 3 member Executive Committee of the Excel 2016 Core Team which comprised of a total of 21 specialist team members.
-  - Active part of the planning, execution and overall functioning of multiple departments.
-  - Directly involved in the planning, resource management, and organizing of Marketing, Workshops & Conferences, Social Initiatives, and General Tech departments along with the respective department heads.
-    <br><br>
-    
-<!--## 📌 On The Side
+- **Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models**  
+  S. Divakar Bhat, Toshihiko Yamasaki  
+  CVPR 2026 Workshop on Multimodal Learning and Applications (MULA), Oral + Poster  
+  [Paper](https://arxiv.org/abs/2606.02742)
 
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
+- **Seeing What&rsquo;s Not There: Negation Understanding Needs More Than Training**  
+  B. Aggarwal, A. More, M. Soni, S. D. Bhat  
+  ICLR 2026 (4th author)  
+  [Search](https://scholar.google.com/scholar?q=Seeing+What%27s+Not+There%3A+Negation+Understanding+Needs+More+Than+Training)
 
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>-->
+- **GRASP: Graph-Refined Adaptive Soft Predictions for Training-Free Vision-Language Model Adaptation**  
+  S. D. Bhat, T. Yamasaki  
+  Submitted to NeurIPS 2026  
+  [Search](https://scholar.google.com/scholar?q=GRASP%3A+Graph-Refined+Adaptive+Soft+Predictions+for+Training-Free+Vision-Language+Model+Adaptation)
 
-## 🎤 Public Speaking
-    
-_Aspiring to share my knowledge and inspire young minds. These are my baby steps to speak before a large audience someday_
-<br>
-### Recent Appearances
+### Earlier
 
-- **RYB an interactive session by EMF** _(streamed on Sep 17, 2021)_
-<br>[RYB Day1](https://www.youtube.com/watch?v=h-2q_B29jdc)<br>
+- **Prior2Posterior: Model Prior Correction for Long-Tailed Learning**  
+  S. D. Bhat, A. More, M. Soni, S. Agrawal  
+  WACV 2025 (Oral)  
+  [Paper](https://doi.org/10.1109/WACV61041.2025.00133)
 
-- **Career Contrails Honda R&D Placement Experience** _(released on Mar 14, 2021)_
-<br>[Part 1: Before Interview](https://www.youtube.com/watch?v=Oi4OeCc_NXI&t=240s)<br>
-[Part 2: During Interview](https://www.youtube.com/watch?v=66t4haSxtws&t=10s)
-<br>
+- **PC-GZSL: Prior Correction for Generalized Zero Shot Learning**  
+  S. D. Bhat, A. More, M. Soni, B. Aggarwal  
+  WACV 2025  
+  [Paper](https://doi.org/10.1109/WACV61041.2025.00697)
 
-- **AlumConnect** _(streamed on Jul 25, 2020)_
-<br>[AlumConnect](https://www.youtube.com/watch?v=eoNWGwLQXdQ)<br>
+- **Model Ensemble to Fuse Geometric and Learning Solutions for Camera Rotation Estimation**  
+  B. Aggarwal, A. More, S. D. Bhat, M. Soni  
+  ICCVW 2025  
+  [Paper](https://doi.org/10.1109/ICCVW69036.2025.00023)
 
-**Want me to speak at your event?**
-<br>💖 [Reach out](https://www.linkedin.com/in/sdivakarbhat/) for more information.
-<br><br>
+- **Robust Loss Function for Class Imbalanced Semantic Segmentation and Image Classification**  
+  S. D. Bhat, A. More, M. Soni, Y. Yasui  
+  IFAC World Congress 2023  
+  [Paper](https://doi.org/10.1016/j.ifacol.2023.10.320)
 
-## 📄 Publications
-    
-### Journals
+- **CILEA-NET: A Curriculum-driven Incremental Learning Network for Remote Sensing Image Classification**  
+  IEEE JSTARS, 2021  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9442875)
 
-- Bhat, S. Divakar, Biplab Banerjee, Subhasis Chaudhuri, and Avik Bhattacharya. **"CILEA-NET: A Curriculum-driven Incremental Learning Network for Remote Sensing Image Classification."** _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2021)_. [CILEA-NET](https://ieeexplore.ieee.org/abstract/document/9442875)<br>
+- **SemGIF: A Semantics Guided Incremental Few-shot Learning Framework with Generative Replay**  
+  BMVC, 2021  
+  [Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)
 
-### Conferences
+- **Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation**  
+  ICPR, 2021  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9412967)
 
-- Banerjee, Sayan, S. Divakar Bhat, Subhasis Chaudhuri, and Rajbabu Velmurugan. **"Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation."** _In 2020 25th International Conference on Pattern Recognition (ICPR)_, pp. 8431-8438. IEEE, 2021. [FSMultiCoseg](https://ieeexplore.ieee.org/abstract/document/9412967)<br>
-- Bhat, S. Divakar, Biplab Banerjee, and Subhasis Chaudhuri. **"SemGIF: A Semantics Guided Incremental Few-shot Learning Framework with Generative Replay."** _In 2021 32nd British Machine Vision Conference (BMVC)_. [SemGIF](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0673.html)<br>
-<br><br>
+## Selected Talks and Presentations
 
-## 🏆 Accomplishments
+- CVPR 2026 Main Conference Highlight Poster: AdaPrior ([Video](https://www.youtube.com/watch?v=TJj1KuKirfo))
+- CVPRW 2026 MULA Oral and Poster: Consistent Yet Wrong
+<!-- Add future talks here with format: Event - Talk title ([Video/Slides](URL)) -->
 
-**Best MTech Thesis Award** @ [EE Dept. IIT Bombay](https://www.ee.iitb.ac.in/web) _(Aug 2021)_ <br>
-Was awarded the Best M.Tech Thesis Award for my thesis titled, "You Never Stop Learning: Exploring Continual Learning in Visual Recognition". 
-<br><br>
+## Awards and Achievements
 
-## 💬 Languages
+- Best M.Tech Thesis Award, Department of Electrical Engineering, IIT Bombay (2021)
+- Finalist, INAE Innovative Student Projects Award (2021)
+- GATE 2018: 99.3 percentile (out of 121,383 candidates)
 
-**English**: Native <br>
-**Hindi**: Native <br>
-**Malayalam**: Native <br>
-**Konkani**: Native <br>
-**Tamil**: Limited Working Proficiency<br>
-**Telugu**: Elementary <br>
-**Sanskrit**: Limited Working Proficiency <br>
-**Japanese**: Elementary
-<br><br>
+## Patents
 
-## 👩🏼‍🎓 Education
+- S. D. Bhat and A. More, &ldquo;Learning device, learning method, and storage medium&rdquo;, US Patent App. US20240265678A1 (2024)
+- 8 additional patents filed worldwide
 
+## Skills
 
-**Master of Technology** in Control and Computing &nbsp; &nbsp; CPI: 9.42<br>
-[IIT Bombay](https://www.iitb.ac.in/) - Mumbai, Maharashtra, India _(2018 - 2021)_
+- PyTorch, Python, OpenCV (Python), TensorFlow Lite, C/C++, C#, Android Studio, Bash, Linux system administration
 
-**Bachelor of Technology** in Electrical and Electronics Engineering &nbsp; &nbsp; CPI: 8.76<br>
-[Model Engineering College](https://www.mec.ac.in/) - Kochi, Kerala, India _(2013 - 2017)_
+## Languages
+
+- English (Fluent)
+- Japanese (Intermediate, N2)
+- Hindi (Fluent)
+- Konkani (Mother tongue)
+- Malayalam (Fluent)

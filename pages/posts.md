@@ -1,9 +1,14 @@
 ---
 layout: default
-title: Posts
+title: Writing
 category: sample
-permalink: /posts
+permalink: /writing
+redirect_from:
+  - /posts
+description: Essays on research, discipline, travel, fitness, dharma, and life between India and Japan.
 ---
+
+<p>Occasional essays on research, discipline, travel, fitness, dharma, and life between India and Japan.</p>
 
   {% for post in site.posts %}
   <article>

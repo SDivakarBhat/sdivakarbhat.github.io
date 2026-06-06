@@ -1,13 +1,13 @@
 ---
 ---
 
-$base-font-family: 'Roboto', sans-serif;
-$body-font-family: 'Roboto', sans-serif;
-$code-font-family: "Source Code Pro", monospace;
+$base-font-family: 'IBM Plex Sans', sans-serif;
+$body-font-family: 'IBM Plex Sans', sans-serif;
+$code-font-family: "IBM Plex Mono", monospace;
 
-$brand-color: black;
+$brand-color: #0f172a;
 
-$container-width: 1100px;
+$container-width: 1120px;
 $tablet-width: 600px;
 $phone-width: 480px;
 
@@ -25,5 +25,8 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
+$accent-color: #1e3a8a;
+$accent-soft: #e8eefc;
+$surface-color: #f8fafc;
 
 @import "-sections-dir";

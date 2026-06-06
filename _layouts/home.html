@@ -2,28 +2,101 @@
 layout: default
 title: Home
 ---
-{% if page.image %}
-    <div class="featured-post" {% if page.image %}onclick="location.href='https://sdivakarbhat.github.io/about';" style="background-image:url({{ site.github.url }}/assets/img/{{ page.image }})"{% endif %}>
-    </div>
-  {% endif %}
-<br>
-<br>
-<h3> Featured Posts </h3>
-<br>
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
+<section class="hero">
+  <p class="hero-label">Reliable Adaptive Vision Research</p>
+  <h1>S. Divakar Bhat</h1>
+  <p class="hero-subtitle">AI Researcher at Honda R&amp;D Japan · PhD Student at The University of Tokyo</p>
+  <p class="hero-identity">I work on reliable, adaptive, and deployment-aware computer vision systems for real-world autonomy.</p>
+  <div class="hero-actions">
+    <a class="button button-primary" href="https://scholar.google.com/citations?user=OV22OLoAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    <a class="button" href="https://github.com/SDivakarBhat" target="_blank">GitHub</a>
+    <a class="button" href="https://www.linkedin.com/in/sdivakarbhat/" target="_blank">LinkedIn</a>
+    <a class="button" href="{{ site.github.url }}/resume">CV / Resume</a>
+    <a class="button" href="mailto:sdivakarbhat@gmail.com">Email</a>
+  </div>
+  <p class="hero-intro">I am an AI researcher at Honda R&amp;D Japan and a PhD student at The University of Tokyo. My research focuses on adaptive and reliable vision systems, including test-time adaptation, continual and long-tailed learning, CLIP/VLM adaptation, and robust perception for AD/ADAS. I am especially interested in methods that remain reliable under distribution shift, class imbalance, and real-world deployment constraints.</p>
+</section>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
+<section class="section-block">
+  <h2>Recent Highlights</h2>
+  <ul class="highlights-list">
+    <li><strong>CVPR 2026 Main Conference Highlight:</strong> AdaPrior, a Bayesian-inspired adaptive prior correction method for long-tailed continual learning.</li>
+    <li><strong>ICLR 2026 Accepted:</strong> Vision-language negation reasoning work (4th author).</li>
+    <li><strong>CVPRW 2026 MULA Oral + Poster:</strong> Consistent Yet Wrong, analyzing evidence insensitivity in spatial vision-language models.</li>
+    <li><strong>NeurIPS 2026 Submission:</strong> GRASP, a training-free CLIP adaptation method with graph-based label propagation and batch kNN adaptation.</li>
+    <li><strong>PhD Journey:</strong> Started doctoral research at The University of Tokyo in October 2025.</li>
+    <li><strong>Current Focus:</strong> Robust AD/ADAS perception, test-time adaptation, long-tailed continual learning, and CLIP/VLM adaptation.</li>
+  </ul>
+</section>
+
+<section class="section-block">
+  <h2>Research Interests</h2>
+  <div class="card-grid card-grid-2">
+    <article class="profile-card">
+      <h3>Adaptive Vision under Distribution Shift</h3>
+      <p>Test-time adaptation, domain shift, calibration, robustness, and reliable model behavior at deployment.</p>
+    </article>
+    <article class="profile-card">
+      <h3>Continual and Long-Tailed Learning</h3>
+      <p>Class-incremental learning, long-tailed continual learning, adaptive priors, and imbalance-aware recognition.</p>
+    </article>
+    <article class="profile-card">
+      <h3>CLIP / VLM Adaptation</h3>
+      <p>Training-free and lightweight adaptation of vision-language models, label propagation, graph-based adaptation, and robust open-vocabulary recognition.</p>
+    </article>
+    <article class="profile-card">
+      <h3>Robust AD/ADAS Perception</h3>
+      <p>Multi-camera perception, free-space and road segmentation, temporal consistency, long-tail driving conditions, lightweight deployment, and edge-aware perception systems.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <h2>Selected Publications</h2>
+  <div class="card-grid">
+    <article class="publication-card">
+      <div class="badge-row">
+        <span class="badge">CVPR 2026</span>
+        <span class="badge badge-strong">Highlight</span>
+        <span class="badge">Main Conference</span>
+      </div>
+      <h3>AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning</h3>
+      <p>A prior-correction framework for long-tailed continual learning that reduces imbalance-induced bias under incremental shifts.</p>
+      <a class="text-link" href="{{ site.github.url }}/publications">View details</a>
+    </article>
+    <article class="publication-card">
+      <div class="badge-row">
+        <span class="badge">CVPRW 2026</span>
+        <span class="badge">Oral</span>
+        <span class="badge">Poster</span>
+      </div>
+      <h3>Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models</h3>
+      <p>An empirical study of failure modes where spatial VLMs appear confident and consistent but ignore critical grounding evidence.</p>
+      <a class="text-link" href="{{ site.github.url }}/publications">View details</a>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <h2>Selected Projects</h2>
+  <div class="card-grid">
+    <article class="profile-card">
+      <h3>AdaPrior: Long-Tailed Continual Learning</h3>
+      <p>Adaptive prior correction for reliable long-tailed recognition in incremental scenarios.</p>
+    </article>
+    <article class="profile-card">
+      <h3>GRASP: Training-Free CLIP Adaptation</h3>
+      <p>Graph-refined soft prediction and neighborhood adaptation for label-efficient test-time performance gains.</p>
+    </article>
+    <article class="profile-card">
+      <h3>Robust AD/ADAS Free-Space Perception</h3>
+      <p>Domain-resilient multi-camera segmentation pipelines designed for on-vehicle deployment constraints.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block section-inline-links">
+  <h2>Writing and Personal Notes</h2>
+  <p>Occasional essays on research, discipline, travel, fitness, dharma, and life between India and Japan.</p>
+  <a class="text-link" href="{{ site.github.url }}/writing">Visit Writing</a>
+</section>
