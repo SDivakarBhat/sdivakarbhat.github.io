@@ -12,7 +12,7 @@ description: CV and resume of S Divakar Bhat.
     <h1 class="page-lead-title">S Divakar Bhat</h1>
     <p class="page-lead-subtitle">AI Researcher, Honda R&amp;D Japan</p>
     <p class="page-lead-subtitle">PhD Student, The University of Tokyo</p>
-    <p class="page-lead-subtitle">sdivakarbhat@gmail.com | <a href="tel:+818049192378">+81 80-4919-2378</a></p>
+    <p class="page-lead-subtitle">sdivakarbhat@gmail.com </p>
     <div class="quick-links">
       <a class="button" href="https://sdivakarbhat.github.io/" target="_blank">Website</a>
       <a class="button" href="https://www.linkedin.com/in/sdivakarbhat/" target="_blank">LinkedIn</a>
