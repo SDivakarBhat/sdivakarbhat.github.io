@@ -28,9 +28,9 @@ description: Publications and submissions by S Divakar Bhat in computer vision a
   <p><strong>Authors:</strong> S Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal</p>
   <p><strong>Venue:</strong> IEEE/CVF CVPR 2026 Main Conference (Highlight)</p>
   <p>A method for long-tailed continual learning that adaptively corrects model priors to reduce bias under class imbalance and incremental distribution shifts.</p>
-  <p class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html" target="_blank">Paper</a><a href="https://www.youtube.com/watch?v=TJj1KuKirfo" target="_blank">Video</a></p>
-  <!-- Future links: Code, Project page, and BibTeX -->
-  <!-- <p class="resource-links"><a href="https://scholar.google.com/scholar?q=AdaPrior%3A+Bayesian-Inspired+Adaptive+Prior+Correction+for+Long-Tailed+Continual+Learning+github" target="_blank">Code</a><a href="https://scholar.google.com/scholar?q=AdaPrior%3A+Bayesian-Inspired+Adaptive+Prior+Correction+for+Long-Tailed+Continual+Learning" target="_blank">Project</a><a href="https://scholar.google.com/scholar?q=AdaPrior%3A+Bayesian-Inspired+Adaptive+Prior+Correction+for+Long-Tailed+Continual+Learning+bibtex" target="_blank">BibTeX</a></p> -->
+  <p class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html" target="_blank">Paper</a><a href="https://www.youtube.com/watch?v=TJj1KuKirfo" target="_blank">Video</a><a href="https://github.com/Opencoder053/AdaPrior" target="_blank" rel="noopener noreferrer">Code (third-party)</a></p>
+  <!-- Future links: Project page and BibTeX -->
+  <!-- <p class="resource-links"><a href="https://scholar.google.com/scholar?q=AdaPrior%3A+Bayesian-Inspired+Adaptive+Prior+Correction+for+Long-Tailed+Continual+Learning" target="_blank">Project</a><a href="https://scholar.google.com/scholar?q=AdaPrior%3A+Bayesian-Inspired+Adaptive+Prior+Correction+for+Long-Tailed+Continual+Learning+bibtex" target="_blank">BibTeX</a></p> -->
 </article>
 
 <article class="publication-card">

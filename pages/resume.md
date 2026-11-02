@@ -54,7 +54,7 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
 - **AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning**  
   S Divakar Bhat, Amit Popat More, Mudit Soni, Bhuvan Aggarwal  
   CVPR 2026 Main Conference (Highlight)  
-  [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html)
+  [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html) | [Code (third-party)](https://github.com/Opencoder053/AdaPrior)
 
 - **Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models**  
   S Divakar Bhat, Toshihiko Yamasaki  
@@ -73,7 +73,7 @@ Reliable and adaptive computer vision, test-time adaptation, continual learning,
   [Search](https://scholar.google.com/scholar?q=GRASP%3A+Graph-Refined+Adaptive+Soft+Predictions+for+Training-Free+Vision-Language+Model+Adaptation)
 -->
 
-<details>
+<details markdown="1">
   <summary><strong>Show more publications</strong></summary>
 
 - **Prior2Posterior: Model Prior Correction for Long-Tailed Learning**  
