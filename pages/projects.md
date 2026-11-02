@@ -19,9 +19,7 @@ description: Research and applied AI projects by S Divakar Bhat.
   <h3>AdaPrior - Long-Tailed Continual Learning</h3>
   <p><strong>Research problem:</strong> Class imbalance and prior drift in class-incremental settings lead to brittle predictions.</p>
   <p><strong>Key idea:</strong> Bayesian-inspired adaptive prior correction to reduce long-tail bias while preserving adaptation ability over incremental updates.</p>
-  <p class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html" target="_blank">Paper</a><a href="https://www.youtube.com/watch?v=TJj1KuKirfo" target="_blank">Video</a></p>
-  <!-- Future links: Code repository -->
-  <!-- <p class="resource-links"><a href="REPLACE_WITH_CODE_URL" target="_blank">Code</a></p> -->
+  <p class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html" target="_blank">Paper</a><a href="https://www.youtube.com/watch?v=TJj1KuKirfo" target="_blank">Video</a><a href="https://github.com/Opencoder053/AdaPrior" target="_blank" rel="noopener noreferrer">Code (third-party)</a></p>
 </article>
 
 <!--
